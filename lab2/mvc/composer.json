@@ -1,0 +1,13 @@
+{
+    "name": "lab2/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [{
+        "name": "loveonex",
+        "email": "vannamhdvt@gmail.com"
+    }],
+    "require": {}
+}
